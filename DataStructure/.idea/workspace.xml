@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c428a2a4-16c7-40ac-b3b6-cd4ec1061dcb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nugCB5zsPPgZ99LVSe9Spap6aC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lyx.demo.Main" />
+      <module name="SparseArray" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyx.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lyx.list.Main" />
+      <module name="SingleLinkedList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyx.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c428a2a4-16c7-40ac-b3b6-cd4ec1061dcb" name="Default Changelist" comment="" />
+      <created>1612245259941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612245259941</updated>
+      <workItem from="1612245263243" duration="1478000" />
+      <workItem from="1612265348018" duration="9509000" />
+      <workItem from="1612275210026" duration="844000" />
+      <workItem from="1612328076216" duration="14395000" />
+      <workItem from="1612378966694" duration="3677000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Inspections" timestamp="1612341049825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1612341049825" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1612274509962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612274509962" />
+    <state width="916" height="267" key="GridCell.Tab.0.bottom" timestamp="1612385555545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612385555545" />
+    <state width="916" height="267" key="GridCell.Tab.0.center" timestamp="1612385555545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="267" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612385555545" />
+    <state width="916" height="267" key="GridCell.Tab.0.left" timestamp="1612385555545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="267" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612385555545" />
+    <state width="916" height="267" key="GridCell.Tab.0.right" timestamp="1612385555545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="267" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612385555545" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1612362968781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612362968781" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1612362968780">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612362968780" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1612362968780">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612362968780" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1612362968781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612362968781" />
+    <state x="334" y="129" key="new project wizard" timestamp="1612382474846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612382474846" />
+  </component>
+</project>

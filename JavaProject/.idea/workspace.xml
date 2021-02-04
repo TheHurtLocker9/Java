@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61f30912-06a4-4abe-a903-5efc622676dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nGdZ8JrJTTprNp6pbPPHoTLI7W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaLib\JavaProject\JavaDemo\src\com\lyx\demo" />
+      <recent name="D:\IdeaLib\JavaProject\JavaDemo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ABS">
+    <configuration name="ABS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lyx.demo.ABS" />
+      <module name="ABS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyx.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lyx.demo.Main" />
+      <module name="ArrayListFilter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyx.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lyx.demo.Main" />
+      <module name="ArrayListFilter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyx.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lyx.demo.Main" />
+      <module name="RedPacketDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyx.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lyx.demo.Main" />
+      <module name="USBDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyx.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lyx.demo.Main" />
+      <module name="PolymorphismDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyx.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lyx.demo.Main" />
+      <module name="HashcodeAndEqualsOverride" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyx.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lyx.demo.Main" />
+      <module name="CloneDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyx.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Statistic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lyx.demo.Statistic" />
+      <module name="ScannerData" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyx.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ABS" />
+        <item itemvalue="Application.Statistic" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61f30912-06a4-4abe-a903-5efc622676dc" name="Default Changelist" comment="" />
+      <created>1611020413435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611020413435</updated>
+      <workItem from="1611020414758" duration="5123000" />
+      <workItem from="1611105519461" duration="7520000" />
+      <workItem from="1611113213998" duration="1256000" />
+      <workItem from="1611146761546" duration="1084000" />
+      <workItem from="1611179402786" duration="2419000" />
+      <workItem from="1611263885070" duration="9617000" />
+      <workItem from="1611792357610" duration="7750000" />
+      <workItem from="1611973458986" duration="4061000" />
+      <workItem from="1612162786102" duration="11221000" />
+      <workItem from="1612385560170" duration="1233000" />
+      <workItem from="1612453776030" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Auto_Import" timestamp="1612170836155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Auto_Import/0.0.1920.1040@0.0.1920.1040" timestamp="1612170836155" />
+    <state x="552" y="178" key="#Inspections" timestamp="1612163202438">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1612163202438" />
+    <state x="552" y="178" key="#Project_Structure" timestamp="1612175142164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1612175142164" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1612174759733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612174759733" />
+    <state x="580" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1611020571182">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="580" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611020571182" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1611800490577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611800490577" />
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1612176668900">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612176668900" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1612176668900">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612176668900" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1612176668899">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612176668899" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1612176668900">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612176668900" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1612176668900">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612176668900" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1612176668900">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612176668900" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1612176668900">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612176668900" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1612176668900">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612176668900" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1612175577745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612175577745" />
+    <state x="636" y="119" width="647" height="801" key="find.popup" timestamp="1611198043296">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="119" width="647" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611198043296" />
+    <state x="334" y="129" key="new project wizard" timestamp="1612175494743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612175494743" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1612175085772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1612175085772" />
+  </component>
+</project>

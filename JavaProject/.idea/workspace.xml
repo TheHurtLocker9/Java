@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61f30912-06a4-4abe-a903-5efc622676dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../DataStructure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/USBDemo/src/com/lyx/demo/USB.java" beforeDir="false" afterPath="$PROJECT_DIR$/USBDemo/src/com/lyx/demo/USB.java" afterDir="false" />
-    </list>
+    <list default="true" id="61f30912-06a4-4abe-a903-5efc622676dc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +190,7 @@
       <workItem from="1612162786102" duration="11221000" />
       <workItem from="1612385560170" duration="1233000" />
       <workItem from="1612453776030" duration="15000" />
-      <workItem from="1612454127346" duration="49000" />
+      <workItem from="1612454127346" duration="207000" />
     </task>
     <servers />
   </component>

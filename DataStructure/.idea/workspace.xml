@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c428a2a4-16c7-40ac-b3b6-cd4ec1061dcb" name="Default Changelist" comment="" />
+    <list default="true" id="c428a2a4-16c7-40ac-b3b6-cd4ec1061dcb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SequentialLists/SequentialLists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SequentialLists/src/com/lyx/list/SequentialLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SequentialLists/src/com/lyx/list/SequentialListsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleLinkedList/SingleLinkedList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SingleLinkedList/SingleLinkedList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparseArray/SparseArray.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SparseArray/SparseArray.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -25,12 +36,31 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaProject" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.lyx.list" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SequentialListsTest.add">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lyx.demo.Main" />
       <module name="SparseArray" />
@@ -57,8 +87,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SequentialListsTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SequentialLists" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyx.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lyx.list" />
+      <option name="MAIN_CLASS_NAME" value="com.lyx.list.SequentialListsTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SequentialListsTest.add" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -80,6 +127,7 @@
       <workItem from="1612328076216" duration="14395000" />
       <workItem from="1612378966694" duration="3677000" />
       <workItem from="1612454115863" duration="10000" />
+      <workItem from="1612509061657" duration="10203000" />
     </task>
     <servers />
   </component>
@@ -91,30 +139,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1612341049825" />
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1612274509962">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1612513615997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612274509962" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1612454121602">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612513615997" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1612513401909">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612454121602" />
-    <state width="916" height="267" key="GridCell.Tab.0.bottom" timestamp="1612385555545">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612513401909" />
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom" timestamp="1612519461267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612385555545" />
-    <state width="916" height="267" key="GridCell.Tab.0.center" timestamp="1612385555545">
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612519461267" />
+    <state width="1877" height="264" key="GridCell.Tab.0.center" timestamp="1612519461267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="267" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612385555545" />
-    <state width="916" height="267" key="GridCell.Tab.0.left" timestamp="1612385555545">
+    <state width="1877" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612519461267" />
+    <state width="1877" height="264" key="GridCell.Tab.0.left" timestamp="1612519461266">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="267" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612385555545" />
-    <state width="916" height="267" key="GridCell.Tab.0.right" timestamp="1612385555545">
+    <state width="1877" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612519461266" />
+    <state width="1877" height="264" key="GridCell.Tab.0.right" timestamp="1612519461267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="267" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612385555545" />
+    <state width="1877" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612519461267" />
     <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1612362968781">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -131,9 +179,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612362968781" />
-    <state x="334" y="129" key="new project wizard" timestamp="1612382474846">
+    <state x="797" y="109" key="SettingsEditor" timestamp="1612513422499">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="334" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612382474846" />
+    <state x="797" y="109" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612513422499" />
+    <state x="658" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1612513433088">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="658" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1612513433088" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612510292991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612510292991" />
+    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1612513176860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612513176860" />
+    <state x="334" y="129" key="new project wizard" timestamp="1612509345894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612509345894" />
   </component>
 </project>

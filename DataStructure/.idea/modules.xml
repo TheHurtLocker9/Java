@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DataStructure.iml" filepath="$PROJECT_DIR$/DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SequentialLists/SequentialLists.iml" filepath="$PROJECT_DIR$/SequentialLists/SequentialLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingleLinkedList/SingleLinkedList.iml" filepath="$PROJECT_DIR$/SingleLinkedList/SingleLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/SparseArray/SparseArray.iml" filepath="$PROJECT_DIR$/SparseArray/SparseArray.iml" />
     </modules>

@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c428a2a4-16c7-40ac-b3b6-cd4ec1061dcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SequentialLists/SequentialLists.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SequentialLists/src/com/lyx/list/SequentialLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SequentialLists/src/com/lyx/list/SequentialListsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CircleArrayQueue/CircleArrayQueue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CircleArrayQueue/src/com/lyx/queue/CircleArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CircleArrayQueue/src/com/lyx/queue/CircleArrayQueueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SingleLinkedList/SingleLinkedList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SingleLinkedList/SingleLinkedList.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SparseArray/SparseArray.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SparseArray/SparseArray.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +50,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.lyx.queue" />
       <recent name="com.lyx.list" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SequentialListsTest.add">
+  <component name="RunManager" selected="JUnit.CircleArrayQueueTest.isExist">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lyx.demo.Main" />
       <module name="SparseArray" />
@@ -74,15 +71,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lyx.list.Main" />
-      <module name="SingleLinkedList" />
+    <configuration name="CircleArrayQueueTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CircleArrayQueue" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lyx.list.*" />
+          <option name="PATTERN" value="com.lyx.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.lyx.queue" />
+      <option name="MAIN_CLASS_NAME" value="com.lyx.queue.CircleArrayQueueTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircleArrayQueueTest.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CircleArrayQueue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyx.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lyx.queue" />
+      <option name="MAIN_CLASS_NAME" value="com.lyx.queue.CircleArrayQueueTest" />
+      <option name="METHOD_NAME" value="get" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircleArrayQueueTest.isExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CircleArrayQueue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyx.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lyx.queue" />
+      <option name="MAIN_CLASS_NAME" value="com.lyx.queue.CircleArrayQueueTest" />
+      <option name="METHOD_NAME" value="isExist" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -105,9 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CircleArrayQueueTest.isExist" />
+        <item itemvalue="JUnit.CircleArrayQueueTest.get" />
+        <item itemvalue="JUnit.CircleArrayQueueTest.add" />
         <item itemvalue="JUnit.SequentialListsTest.add" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +161,8 @@
       <workItem from="1612328076216" duration="14395000" />
       <workItem from="1612378966694" duration="3677000" />
       <workItem from="1612454115863" duration="10000" />
-      <workItem from="1612509061657" duration="10203000" />
+      <workItem from="1612509061657" duration="10819000" />
+      <workItem from="1612606191262" duration="4415000" />
     </task>
     <servers />
   </component>
@@ -139,65 +174,69 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1612341049825" />
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1612513615997">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1612606681991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612513615997" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612606681991" />
+    <state x="674" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1612607153976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="674" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612607153976" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1612513401909">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612513401909" />
-    <state width="1877" height="264" key="GridCell.Tab.0.bottom" timestamp="1612519461267">
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1612612049382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612519461267" />
-    <state width="1877" height="264" key="GridCell.Tab.0.center" timestamp="1612519461267">
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612612049382" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1612612049382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612519461267" />
-    <state width="1877" height="264" key="GridCell.Tab.0.left" timestamp="1612519461266">
+    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612612049382" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1612612049382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612519461266" />
-    <state width="1877" height="264" key="GridCell.Tab.0.right" timestamp="1612519461267">
+    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612612049382" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1612612049382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612519461267" />
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1612362968781">
+    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612612049382" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1612612049383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612362968781" />
-    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1612362968780">
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612612049383" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1612612049383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612362968780" />
-    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1612362968780">
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612612049383" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1612612049382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612362968780" />
-    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1612362968781">
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612612049382" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1612612049383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612362968781" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612612049383" />
     <state x="797" y="109" key="SettingsEditor" timestamp="1612513422499">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="797" y="109" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612513422499" />
-    <state x="658" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1612513433088">
+    <state x="658" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1612608863192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="658" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1612513433088" />
+    <state x="658" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1612608863192" />
     <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612510292991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612510292991" />
-    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1612513176860">
+    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1612608658865">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612513176860" />
-    <state x="334" y="129" key="new project wizard" timestamp="1612509345894">
+    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612608658865" />
+    <state x="334" y="129" key="new project wizard" timestamp="1612606289813">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="334" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612509345894" />
+    <state x="334" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612606289813" />
   </component>
 </project>

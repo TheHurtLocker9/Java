@@ -10,7 +10,7 @@ package com.lyx.list;
     5.修改指定位置的节点（改）
     6.查找指定位置的节点数据（查）
     7.打印链表
-
+    8.链表倒置
  */
 public class Linked {
     private int size;
@@ -90,16 +90,17 @@ public class Linked {
 
     /**
      * 4.删除指定数据的节点（删）
+     *
      * @param data 匹配删除的数据
      * @return
      */
-    public void removeAll(String data){
+    public void removeAll(String data) {
         Node temp = head;
-        while (true){
-            if (temp.getNextNode()==null){
+        while (true) {
+            if (temp.getNextNode() == null) {
                 return;
             }
-            if (temp.getNextNode().getData().equals(data)){
+            if (temp.getNextNode().getData().equals(data)) {
                 temp.setNextNode(temp.getNextNode().getNextNode());
                 size--;
                 continue;
@@ -171,5 +172,26 @@ public class Linked {
             System.out.println(temp.toString());
             temp = temp.getNextNode();
         }
+    }
+
+    /**
+     * 8.链表倒置
+     */
+    public void reverse() {
+        //创建一个新的头结点
+        Node reverseHead = new Node();
+        //设置一个临时操作结点
+        Node temp = head.getNextNode();
+        while (temp != null) {
+            //将操作结点从原链表中拆出
+            head.setNextNode(temp.getNextNode());
+            //向逆序链表中插入操作结点
+            temp.setNextNode(reverseHead.getNextNode());
+            reverseHead.setNextNode(temp);
+            //操作下一个结点
+            temp = head.getNextNode();
+        }
+        //将倒序后的链表接入回原链表
+        head.setNextNode(reverseHead.getNextNode());
     }
 }

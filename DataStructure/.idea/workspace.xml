@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c428a2a4-16c7-40ac-b3b6-cd4ec1061dcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SingleLinkedList/src/com/lyx/list/LinkedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoubleLinkedList/src/com/lyx/list/DoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoubleLinkedList/src/com/lyx/list/DoubleLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoubleLinkedList/src/com/lyx/list/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SingleLinkedList/SingleLinkedList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SingleLinkedList/SingleLinkedList.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SingleLinkedList/src/com/lyx/list/Linked.java" beforeDir="false" afterPath="$PROJECT_DIR$/SingleLinkedList/src/com/lyx/list/Linked.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SingleLinkedList/com/lyx/list/Linked.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SingleLinkedList/com/lyx/list/Linked.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,8 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -57,54 +59,57 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LinkedTest.reverse">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lyx.list.Main" />
-      <module name="SingleLinkedList" />
+  <component name="RunManager" selected="JUnit.DoubleLinkedListTest.isExist">
+    <configuration name="DoubleLinkedListTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DoubleLinkedList" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.lyx.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CircleArrayQueueTest.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CircleArrayQueue" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lyx.queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lyx.queue" />
-      <option name="MAIN_CLASS_NAME" value="com.lyx.queue.CircleArrayQueueTest" />
-      <option name="METHOD_NAME" value="get" />
+      <option name="PACKAGE_NAME" value="com.lyx.list" />
+      <option name="MAIN_CLASS_NAME" value="com.lyx.list.DoubleLinkedListTest" />
+      <option name="METHOD_NAME" value="delete" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleArrayQueueTest.isExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CircleArrayQueue" />
+    <configuration name="DoubleLinkedListTest.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DoubleLinkedList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lyx.queue.*" />
+          <option name="PATTERN" value="com.lyx.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.lyx.queue" />
-      <option name="MAIN_CLASS_NAME" value="com.lyx.queue.CircleArrayQueueTest" />
+      <option name="PACKAGE_NAME" value="com.lyx.list" />
+      <option name="MAIN_CLASS_NAME" value="com.lyx.list.DoubleLinkedListTest" />
+      <option name="METHOD_NAME" value="insert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleLinkedListTest.isExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DoubleLinkedList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyx.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lyx.list" />
+      <option name="MAIN_CLASS_NAME" value="com.lyx.list.DoubleLinkedListTest" />
       <option name="METHOD_NAME" value="isExist" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SingleLinkedList" />
+    <configuration name="DoubleLinkedListTest.select" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DoubleLinkedList" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.lyx.list.*" />
@@ -112,14 +117,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.lyx.list" />
-      <option name="MAIN_CLASS_NAME" value="com.lyx.list.LinkedTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="com.lyx.list.DoubleLinkedListTest" />
+      <option name="METHOD_NAME" value="select" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedTest.reverse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SingleLinkedList" />
+    <configuration name="DoubleLinkedListTest.updata" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DoubleLinkedList" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.lyx.list.*" />
@@ -127,8 +133,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.lyx.list" />
-      <option name="MAIN_CLASS_NAME" value="com.lyx.list.LinkedTest" />
-      <option name="METHOD_NAME" value="reverse" />
+      <option name="MAIN_CLASS_NAME" value="com.lyx.list.DoubleLinkedListTest" />
+      <option name="METHOD_NAME" value="updata" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LinkedTest.reverse" />
-        <item itemvalue="JUnit.LinkedTest" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.CircleArrayQueueTest.isExist" />
-        <item itemvalue="JUnit.CircleArrayQueueTest.get" />
+        <item itemvalue="JUnit.DoubleLinkedListTest.isExist" />
+        <item itemvalue="JUnit.DoubleLinkedListTest.select" />
+        <item itemvalue="JUnit.DoubleLinkedListTest.updata" />
+        <item itemvalue="JUnit.DoubleLinkedListTest.delete" />
+        <item itemvalue="JUnit.DoubleLinkedListTest.insert" />
       </list>
     </recent_temporary>
   </component>
@@ -163,6 +169,7 @@
       <workItem from="1612509061657" duration="10819000" />
       <workItem from="1612606191262" duration="4415000" />
       <workItem from="1612621814739" duration="3753000" />
+      <workItem from="1612722432449" duration="6636000" />
     </task>
     <servers />
   </component>
@@ -174,14 +181,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1612341049825" />
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1612606681991">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1612724483761">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612606681991" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612724483761" />
     <state x="674" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1612607153976">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="674" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612607153976" />
+    <state x="703" y="365" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1612722717637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="703" y="365" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1612722717637" />
     <state x="499" y="110" key="CommitChangelistDialog2" timestamp="1612625577995">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -190,22 +201,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612513401909" />
-    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1612625598882">
+    <state width="1877" height="415" key="GridCell.Tab.0.bottom" timestamp="1612729500712">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612625598882" />
-    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1612625598882">
+    <state width="1877" height="415" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612729500712" />
+    <state width="1877" height="415" key="GridCell.Tab.0.center" timestamp="1612729500712">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612625598882" />
-    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1612625598881">
+    <state width="1877" height="415" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612729500712" />
+    <state width="1877" height="415" key="GridCell.Tab.0.left" timestamp="1612729500712">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612625598881" />
-    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1612625598882">
+    <state width="1877" height="415" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612729500712" />
+    <state width="1877" height="415" key="GridCell.Tab.0.right" timestamp="1612729500712">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612625598882" />
+    <state width="1877" height="415" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612729500712" />
     <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1612625598882">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -222,25 +233,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612625598882" />
-    <state x="797" y="109" key="SettingsEditor" timestamp="1612513422499">
+    <state x="797" y="109" key="SettingsEditor" timestamp="1612722728859">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="797" y="109" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612513422499" />
-    <state x="658" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1612623420896">
+    <state x="797" y="109" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612722728859" />
+    <state x="658" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1612724893560">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="658" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1612623420896" />
+    <state x="658" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1612724893560" />
     <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612510292991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612510292991" />
-    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1612623414017">
+    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1612724877140">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612623414017" />
-    <state x="334" y="129" key="new project wizard" timestamp="1612606289813">
+    <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612724877140" />
+    <state x="334" y="129" key="new project wizard" timestamp="1612722517906">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="334" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612606289813" />
+    <state x="334" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612722517906" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1612727187954">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1612727187954" />
   </component>
 </project>

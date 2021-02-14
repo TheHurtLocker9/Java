@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c428a2a4-16c7-40ac-b3b6-cd4ec1061dcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DoubleLinkedList/src/com/lyx/list/DoubleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoubleLinkedList/src/com/lyx/list/DoubleLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoubleLinkedList/src/com/lyx/list/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c428a2a4-16c7-40ac-b3b6-cd4ec1061dcb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +37,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -170,6 +164,7 @@
       <workItem from="1612606191262" duration="4415000" />
       <workItem from="1612621814739" duration="3753000" />
       <workItem from="1612722432449" duration="6636000" />
+      <workItem from="1613335882141" duration="1000" />
     </task>
     <servers />
   </component>

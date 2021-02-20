@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/PolymorphismDemo/PolymorphismDemo.iml" filepath="$PROJECT_DIR$/PolymorphismDemo/PolymorphismDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/RedPacketDemo/RedPacketDemo.iml" filepath="$PROJECT_DIR$/RedPacketDemo/RedPacketDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ScannerData/ScannerData.iml" filepath="$PROJECT_DIR$/ScannerData/ScannerData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackCalculator/StackCalculator.iml" filepath="$PROJECT_DIR$/StackCalculator/StackCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/USBDemo/USBDemo.iml" filepath="$PROJECT_DIR$/USBDemo/USBDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Birthday/birthday.iml" filepath="$PROJECT_DIR$/Birthday/birthday.iml" />
     </modules>

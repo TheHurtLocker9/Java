@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c428a2a4-16c7-40ac-b3b6-cd4ec1061dcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ArrayStackDemo/ArrayStackDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayStackDemo/src/com/lyx/demo/ArrayStackDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayStackDemo/src/com/lyx/demo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedStackDemo/LinkedStackDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedStackDemo/src/com/lyx/demo/LinkedStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedStackDemo/src/com/lyx/demo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedStackDemo/src/com/lyx/demo/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree/src/com/lyx/data/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree/src/com/lyx/data/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree/src/com/lyx/data/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GroupSum/GroupSum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GroupSum/src/com/lyx/demo/GroupSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labyrinth/Labyrinth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labyrinth/src/com/lyx/demo/Labyrinth.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -69,7 +70,33 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="GroupSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lyx.demo.GroupSum" />
+      <module name="GroupSum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyx.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Labyrinth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lyx.demo.Labyrinth" />
+      <module name="Labyrinth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyx.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lyx.demo.Main" />
       <module name="ArrayStackDemo" />
@@ -96,9 +123,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lyx.data.Main" />
-      <module name="Josephu" />
+      <module name="BinaryTree" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.lyx.data.*" />
@@ -109,45 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleLinkedListTest.isExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DoubleLinkedList" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lyx.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lyx.list" />
-      <option name="MAIN_CLASS_NAME" value="com.lyx.list.DoubleLinkedListTest" />
-      <option name="METHOD_NAME" value="isExist" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DoubleLinkedListTest.select" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DoubleLinkedList" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lyx.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lyx.list" />
-      <option name="MAIN_CLASS_NAME" value="com.lyx.list.DoubleLinkedListTest" />
-      <option name="METHOD_NAME" value="select" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.GroupSum" />
+        <item itemvalue="Application.Labyrinth" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.DoubleLinkedListTest.isExist" />
-        <item itemvalue="JUnit.DoubleLinkedListTest.select" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +169,8 @@
       <workItem from="1613335882141" duration="1000" />
       <workItem from="1613677813258" duration="10598000" />
       <workItem from="1613779169166" duration="5943000" />
+      <workItem from="1613926885419" duration="13067000" />
+      <workItem from="1614114492592" duration="9594000" />
     </task>
     <servers />
   </component>
@@ -189,15 +186,23 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2472" y="178" key="#Project_Structure/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613679160376" />
-    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1613783970489">
+    <state x="2710" y="375" width="309" height="290" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1613943687073">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613783970489" />
+    <state x="2710" y="375" width="309" height="290" key="#com.intellij.debugger.actions.ViewTextAction/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613943687073" />
+    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1614122954314">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614122954314" />
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612724483761" />
     <state x="674" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1612607153976">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="674" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612607153976" />
+    <state x="2765" y="273" key="#xdebugger.XInspectDialog" timestamp="1613943822880">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2765" y="273" key="#xdebugger.XInspectDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613943822880" />
     <state x="703" y="365" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1612722717637">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -210,45 +215,45 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612513401909" />
-    <state width="1875" height="346" key="GridCell.Tab.0.bottom" timestamp="1613786969683">
+    <state width="1875" height="280" key="GridCell.Tab.0.bottom" timestamp="1614123746567">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="346" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613786969683" />
+    <state width="1875" height="280" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614123746567" />
     <state width="1877" height="415" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612729500712" />
-    <state width="1875" height="346" key="GridCell.Tab.0.center" timestamp="1613786969683">
+    <state width="1875" height="280" key="GridCell.Tab.0.center" timestamp="1614123746567">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="346" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613786969683" />
+    <state width="1875" height="280" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614123746567" />
     <state width="1877" height="415" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612729500712" />
-    <state width="1875" height="346" key="GridCell.Tab.0.left" timestamp="1613786969683">
+    <state width="1875" height="280" key="GridCell.Tab.0.left" timestamp="1614123746567">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="346" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613786969683" />
+    <state width="1875" height="280" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614123746567" />
     <state width="1877" height="415" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612729500712" />
-    <state width="1875" height="346" key="GridCell.Tab.0.right" timestamp="1613786969683">
+    <state width="1875" height="280" key="GridCell.Tab.0.right" timestamp="1614123746567">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="346" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613786969683" />
+    <state width="1875" height="280" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614123746567" />
     <state width="1877" height="415" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612729500712" />
-    <state width="1875" height="346" key="GridCell.Tab.1.bottom" timestamp="1613786969683">
+    <state width="1877" height="346" key="GridCell.Tab.1.bottom" timestamp="1613947501194">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="346" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613786969683" />
+    <state width="1877" height="346" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613947501194" />
     <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612625598882" />
-    <state width="1875" height="346" key="GridCell.Tab.1.center" timestamp="1613786969683">
+    <state width="1877" height="346" key="GridCell.Tab.1.center" timestamp="1613947501193">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="346" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613786969683" />
+    <state width="1877" height="346" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613947501193" />
     <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612625598882" />
-    <state width="1875" height="346" key="GridCell.Tab.1.left" timestamp="1613786969683">
+    <state width="1877" height="346" key="GridCell.Tab.1.left" timestamp="1613947501193">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="346" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613786969683" />
+    <state width="1877" height="346" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613947501193" />
     <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612625598882" />
-    <state width="1875" height="346" key="GridCell.Tab.1.right" timestamp="1613786969683">
+    <state width="1877" height="346" key="GridCell.Tab.1.right" timestamp="1613947501193">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="346" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613786969683" />
+    <state width="1877" height="346" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613947501193" />
     <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612625598882" />
     <state x="797" y="109" key="SettingsEditor" timestamp="1612722728859">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -266,11 +271,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="731" y="222" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612724877140" />
-    <state x="2254" y="129" key="new project wizard" timestamp="1613783308644">
+    <state x="2254" y="129" key="new project wizard" timestamp="1614114621906">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2254" y="129" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613783308644" />
+    <state x="2254" y="129" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614114621906" />
     <state x="334" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612722517906" />
+    <state x="2536" y="240" key="run.anything.popup" timestamp="1613928444451">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2536" y="240" key="run.anything.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613928444451" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1612727187954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

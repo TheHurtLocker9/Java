@@ -3,10 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayStackDemo/ArrayStackDemo.iml" filepath="$PROJECT_DIR$/ArrayStackDemo/ArrayStackDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/CircleArrayQueue/CircleArrayQueue.iml" filepath="$PROJECT_DIR$/CircleArrayQueue/CircleArrayQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataStructure.iml" filepath="$PROJECT_DIR$/DataStructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/DoubleLinkedList/DoubleLinkedList.iml" filepath="$PROJECT_DIR$/DoubleLinkedList/DoubleLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GroupSum/GroupSum.iml" filepath="$PROJECT_DIR$/GroupSum/GroupSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Josephu/Josephu.iml" filepath="$PROJECT_DIR$/Josephu/Josephu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labyrinth/Labyrinth.iml" filepath="$PROJECT_DIR$/Labyrinth/Labyrinth.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedStackDemo/LinkedStackDemo.iml" filepath="$PROJECT_DIR$/LinkedStackDemo/LinkedStackDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SequentialLists/SequentialLists.iml" filepath="$PROJECT_DIR$/SequentialLists/SequentialLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingleLinkedList/SingleLinkedList.iml" filepath="$PROJECT_DIR$/SingleLinkedList/SingleLinkedList.iml" />
